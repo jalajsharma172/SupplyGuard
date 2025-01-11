@@ -1,0 +1,28 @@
+.account{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    border-bottom: 1px solid gray;
+}
+.main{
+    margin: 10px;
+    padding: 0px;
+}
+.main > .head{
+    font-size: 30px;
+    font-weight: 600;
+    color: rgb(13, 14, 15);
+    margin-bottom: 10px;
+}
+.main > .subhead{
+    color: rgb(55 65 81);
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+.manu{
+    height: 15vh;
+    /* margin: 0px; */
+    /* padding: 20px; */
+    border: 1px solid gray;
+}
